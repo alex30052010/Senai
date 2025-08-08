@@ -1,0 +1,26 @@
+<table border="">
+    <tr>
+        <th>clube<\th>
+        <th>partida</th>
+        <th>vitoria</th>
+        <th>empates</th>
+        <th>derotas</th>
+        <th>saldo de gol</th>
+        <th>pontos<\th>
+    </tr>
+
+    <tr>
+        <td>palmeras</td>
+        <td>3</td>
+        <td>1</td>
+        <td>2</td>
+        <td>0<\td>
+        <td>2<\td>
+        <td>5<\td>
+
+    <tr>
+        <td>inter miami<\td>
+        <td>3<\td>
+        <td>1<\td>
+        <td>1<\td>
+        <td>
